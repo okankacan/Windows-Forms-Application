@@ -1,0 +1,17 @@
+C:\Users\nako\Desktop\ProjeFaturalama\ProjeFaturalama\bin\Debug\ProjeFaturalama.exe
+C:\Users\nako\Desktop\ProjeFaturalama\ProjeFaturalama\bin\Debug\ProjeFaturalama.pdb
+C:\Users\nako\Desktop\ProjeFaturalama\ProjeFaturalama\obj\Debug\ProjeFaturalama.csprojResolveAssemblyReference.cache
+C:\Users\nako\Desktop\ProjeFaturalama\ProjeFaturalama\obj\Debug\ProjeFaturalama.Form1.resources
+C:\Users\nako\Desktop\ProjeFaturalama\ProjeFaturalama\obj\Debug\ProjeFaturalama.Properties.Resources.resources
+C:\Users\nako\Desktop\ProjeFaturalama\ProjeFaturalama\obj\Debug\ProjeFaturalama.csproj.GenerateResource.Cache
+C:\Users\nako\Desktop\ProjeFaturalama\ProjeFaturalama\obj\Debug\ProjeFaturalama.exe
+C:\Users\nako\Desktop\ProjeFaturalama\ProjeFaturalama\obj\Debug\ProjeFaturalama.pdb
+C:\Users\nako\Desktop\ProjeFaturalama\ProjeFaturalama\obj\Debug\ProjeFaturalama.Form2.resources
+C:\Users\nako\Desktop\ProjeFaturalama\ProjeFaturalama\obj\Debug\ProjeFaturalama.MusteriDuzenle.resources
+C:\Users\nako\Desktop\ProjeFaturalama\ProjeFaturalama\obj\Debug\ProjeFaturalama.musterikayit.resources
+C:\Users\nako\Desktop\ProjeFaturalama\ProjeFaturalama\obj\Debug\ProjeFaturalama.Urunler.resources
+C:\Users\nako\Desktop\ProjeFaturalama\ProjeFaturalama\obj\Debug\ProjeFaturalama.UrunEkleme.resources
+C:\Users\nako\Desktop\ProjeFaturalama\ProjeFaturalama\obj\Debug\ProjeFaturalama.UrunDuzenleme.resources
+C:\Users\nako\Desktop\ProjeFaturalama\ProjeFaturalama\obj\Debug\ProjeFaturalama.faturaGirisi.resources
+C:\Users\nako\Desktop\ProjeFaturalama\ProjeFaturalama\obj\Debug\ProjeFaturalama.Faturalar.resources
+C:\Users\nako\Desktop\ProjeFaturalama\ProjeFaturalama\obj\Debug\ProjeFaturalama.FaturaDuzenle.resources
